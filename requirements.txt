@@ -1,1 +1,6 @@
-
+fastapi
+uvicorn
+groq
+pydantic
+python-multipart
+aiofiles
